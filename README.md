@@ -4,8 +4,11 @@ available.
 
 <b>SCREENSHOTS :</b>
 
-<pre>           <img src="https://i.imgur.com/SvMTVSV.jpg" width="600"><br/><img src="https://i.imgur.com/M7Zrwqm.png" width="600"><br/>
-                <img src="https://i.imgur.com/jkSuw5Z.png" width="600"><br/><img src="https://i.imgur.com/4iqWUAr.png" width="600"><br/>
-                <img src="https://i.imgur.com/7qW7lSn.png" width="600"><br/><img src="https://i.imgur.com/9mrscft.png" width="600">
+<pre>           <img src="https://i.imgur.com/SvMTVSV.jpg" width="600"><br/>
+                <img src="https://i.imgur.com/M7Zrwqm.png" width="600"><br/>
+                <img src="https://i.imgur.com/jkSuw5Z.png" width="600"><br/>
+                <img src="https://i.imgur.com/4iqWUAr.png" width="600"><br/>
+                <img src="https://i.imgur.com/7qW7lSn.png" width="600"><br/>
+                <img src="https://i.imgur.com/9mrscft.png" width="600">
            
 </pre>
